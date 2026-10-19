@@ -1,5 +1,6 @@
 # 🚀 Lab: um robô que publica (ou bloqueia) o seu site
 
+## VAI PALMEIRAS 
 > 🎓 **UNINOVE** — Disciplina: **Automação de Processos**
 > 📚 Tema: **DevOps** — Integração Contínua e Entrega Contínua (CI/CD)
 > 👨‍🏫 Professor: **Marcelino Dias da Silva**
